@@ -23,7 +23,7 @@
       "vlucas/phpdotenv": "~1.1"
     },
     "require": {
-      "guzzlehttp/guzzle": "~5.0",
+      "guzzlehttp/guzzle": "~6.0",
       "league/csv": "~6.2"
     }
 }
